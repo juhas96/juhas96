@@ -35,7 +35,7 @@ You can find me on [![Twitter][1.2]][1] or [![LinkedIn][3.2]][3].
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juhas96&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhas96&hide=html,css&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhas96&hide=html,css,swift&layout=compact&theme=dark)
 
 <!-- icons with padding -->
 
