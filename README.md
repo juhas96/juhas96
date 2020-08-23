@@ -2,7 +2,7 @@
 
 My name is Jakub Juhás and I'm a software developer. 
 I'm from Slovakia, currently living in Košice.
-You can find me on [![Twitter][1.2]][1] or [DEV.to](https://dev.to/jakubjuhs) or [![LinkedIn][3.2][3].
+You can find me on [![Twitter][1.2]][1] or [DEV.to](https://dev.to/jakubjuhs) or [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tool
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
