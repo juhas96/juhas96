@@ -20,13 +20,13 @@ You can find me on [![Twitter][1.2]][1] or [![LinkedIn][3.2]][3].
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 
-## - 🌱 I’m currently learning
+## 🌱 I’m currently learning
 ![](https://img.shields.io/badge/Mastering-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Mastering-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Mastering-Node.js-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
 
 
-## - 🔭 I’m currently working on
+## 🔭 I’m currently working on
 <a href="https://github.com/juhas96/covid-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juhas96&repo=covid-tracker&theme=dark" />
 </a>
