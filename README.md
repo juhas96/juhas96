@@ -31,6 +31,10 @@ You can find me on [![Twitter][1.2]][1] or [![LinkedIn][3.2]][3].
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juhas96&repo=covid-tracker&theme=dark" />
 </a>
 
+<a href="https://github.com/juhas96/kanban-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juhas96&repo=kanban-demo&theme=dark" />
+</a>
+
 ## &#x1f4c8; GitHub Stats
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juhas96&show_icons=true&theme=dark)
